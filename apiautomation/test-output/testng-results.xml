@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Booking API suite" duration-ms="5355" started-at="2019-12-20T21:20:25Z" finished-at="2019-12-20T21:20:31Z">
+    <groups>
+    </groups>
+    <test name="Booking GET API test" duration-ms="4381" started-at="2019-12-20T21:20:25Z" finished-at="2019-12-20T21:20:30Z">
+      <class name="com.testcases.GETAPITest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.GETAPITest@185d8b6]" name="setUp" is-config="true" duration-ms="7" started-at="2019-12-20T21:20:25Z" finished-at="2019-12-20T21:20:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getBookings()[pri:101, instance:com.testcases.GETAPITest@185d8b6]" name="getBookings" duration-ms="2681" started-at="2019-12-20T21:20:25Z" description="Test that at least 2 existing bookings are returned in the response." finished-at="2019-12-20T21:20:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookings -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.GETAPITest@185d8b6]" name="setUp" is-config="true" duration-ms="0" started-at="2019-12-20T21:20:28Z" finished-at="2019-12-20T21:20:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getBooking()[pri:102, instance:com.testcases.GETAPITest@185d8b6]" name="getBooking" duration-ms="1669" started-at="2019-12-20T21:20:28Z" description="Test that the data returned for an existing booking matches." finished-at="2019-12-20T21:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBooking -->
+      </class> <!-- com.testcases.GETAPITest -->
+    </test> <!-- Booking GET API test -->
+    <test name="Booking POST API test" duration-ms="955" started-at="2019-12-20T21:20:30Z" finished-at="2019-12-20T21:20:31Z">
+      <class name="com.testcases.POSTAPITest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testcases.POSTAPITest@4973813a]" name="setUp" is-config="true" duration-ms="2" started-at="2019-12-20T21:20:30Z" finished-at="2019-12-20T21:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createBooking()[pri:201, instance:com.testcases.POSTAPITest@4973813a]" name="createBooking" duration-ms="951" started-at="2019-12-20T21:20:30Z" description="Test that bookings can be created" finished-at="2019-12-20T21:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooking -->
+      </class> <!-- com.testcases.POSTAPITest -->
+    </test> <!-- Booking POST API test -->
+  </suite> <!-- Booking API suite -->
+</testng-results>

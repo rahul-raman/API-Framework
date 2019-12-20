@@ -1,0 +1,10 @@
+{
+  "roomid": 12,
+  "firstname": "Rahul",
+  "lastname": "Raman",
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2019-12-01",
+    "checkout": "2019-12-05"
+  }
+}

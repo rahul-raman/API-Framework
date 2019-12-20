@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Booking API suite" parallel="classes"
+	thread-count="2">
+  
+  <listeners>
+  <listener class-name="com.tests.ExtentReportListener.ExtentReporterNG" />
+  </listeners>
+  
+  <test name="Booking GET API test">
+    <classes>
+    	<class name="com.testcases.GETAPITest"/>
+		
+    </classes>
+  </test>
+  
+  <test name="Booking POST API test">
+    <classes>
+       <class name="com.testcases.POSTAPITest"/>
+		
+    </classes>
+  </test>
+</suite>

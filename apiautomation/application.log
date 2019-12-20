@@ -1,0 +1,158 @@
+reading config properties file
+reading config properties file
+reading config properties file
+Base URI ishttps://automationintesting.online/booking
+reading config properties file
+Base URI ishttps://automationintesting.online/booking
+reading config properties file
+Base URI ishttps://automationintesting.online/booking
+reading config properties file
+Base URI ishttps://automationintesting.online/booking
+reading config properties file
+Base URI ishttps://automationintesting.online/booking
+reading config properties file
+Base URI ishttps://automationintesting.online/booking
+reading config properties file
+Base URI ishttps://automationintesting.online/booking
+reading config properties file
+Base URI ishttps://automationintesting.online/booking
+reading config properties file
+reading config properties file
+Base URI ishttps://automationintesting.online/booking
+reading config properties file
+Base URI ishttps://automationintesting.online/booking/
+reading config properties file
+Base URI ishttps://automationintesting.online/booking/
+reading config properties file
+Base URI ishttps://automationintesting.online/booking/
+reading config properties file
+No Json file to read
+reading config properties file
+No Json file to read
+reading config properties file
+No Json file to read
+reading config properties file
+reading config properties file
+Base URI ishttps://automationintesting.online/booking/
+reading config properties file
+Base URI ishttps://automationintesting.online/booking/
+reading config properties file
+Base URI ishttps://automationintesting.online/booking/
+reading config properties file
+reading config properties file
+Base URI ishttps://automationintesting.online/booking/
+Number of Booking Today is:  2
+reading config properties file
+Base URI ishttps://automationintesting.online/booking/
+Number of Booking Today is:  2
+reading config properties file
+Base URI ishttps://automationintesting.online/booking/
+Number of Booking Today is:  2
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Number of Booking Today is:  2
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Number of Booking Today is:  2
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Number of Booking Today is:  2
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Number of Booking Today is:  2
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Number of Booking Today is:  2
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Number of Booking Today is:  2
+Fetching all the booking id to validate in the next @Test
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Number of Booking Today is:  2
+Fetching all the booking id to validate in the next @Test
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Number of Booking Today is:  2
+Fetching all the booking id to validate in the next @Test
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Fetching existing bookings with their booking id
+reading config properties file
+Generating payload from json
+Base URI ishttps://automationintesting.online/booking/
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Number of Booking Today is:  2
+Fetching all the booking id to validate in the next @Test
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Fetching existing bookings with their booking id
+reading config properties file
+Generating payload from json
+Base URI ishttps://automationintesting.online/booking/
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Number of Booking Today is:  2
+Fetching all the booking id to validate in the next @Test
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Fetching existing bookings with their booking id
+reading config properties file
+Generating payload from json
+Base URI ishttps://automationintesting.online/booking/
+There is a conflict, please recheck the payload
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Number of Booking Today is:  2
+Fetching all the booking id to validate in the next @Test
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Fetching existing bookings with their booking id
+reading config properties file
+Generating payload from json
+Base URI ishttps://automationintesting.online/booking/
+There is a conflict, please recheck the payload
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Number of Booking Today is:  2
+Fetching all the booking id to validate in the next @Test
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Fetching existing bookings with their booking id
+reading config properties file
+Generating payload from json
+Base URI ishttps://automationintesting.online/booking/
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Number of Booking Today is:  2
+Fetching all the booking id to validate in the next @Test
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Fetching existing bookings with their booking id
+reading config properties file
+Generating payload from json
+Base URI ishttps://automationintesting.online/booking/
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Setting Header and Query Params for getBookings() Method
+Calling GET Method
+Validating GET Test Case
+Number of Booking Today is:  2
+Fetching all the booking id to validate in the next @Test
+reading config properties file
+Base URI is: https://automationintesting.online/booking/
+Setting Header and Query Params for getBooking() Method
+Fetching existing bookings with their booking id
+Calling GET Method
+Validating getBooking() Test Case
+Calling GET Method
+Validating getBooking() Test Case
+reading config properties file
+Generating payload from json
+Base URI ishttps://automationintesting.online/booking/
+Validating createBooking() Test Case
