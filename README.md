@@ -1,4 +1,4 @@
-# Hello Fresh API Framework
+# API Framework
 A Restful framework to run and validate API Tests.
 ## Components
 This is a Hybrid Framework which is a combination of **Data Driven Development** and **Test Driven Development**. And it is written on the concepts of **BDD**.
